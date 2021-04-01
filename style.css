@@ -1,0 +1,44 @@
+body {
+	background: #a5ccee;
+    font-family: inherit;
+	front-size:20px;
+	 }
+
+h1 {
+	 color: orange;
+    font-family: inherit;
+    font-size: 32px;
+   }
+ 
+ title {color: orange
+ }
+
+h2 {
+	color: black;
+    font-family: -webkit-body;
+    font-size: 32px;
+    font-weight: unset;
+   }
+
+h3 {
+	color: pink;
+    font-family: -webkit-body;
+    font-size: 32px;
+    font-weight: unset;
+
+}
+
+ a {    text-decoration: grey;    color:#grey;    } a:hover {          color: grey;         }
+
+#logo {
+	width: 250px;
+	  }
+
+
+
+
+
+
+
+
+
